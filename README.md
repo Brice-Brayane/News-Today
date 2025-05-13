@@ -1,6 +1,9 @@
 # News-Today
 
-Mini-News-App zum Lernen von CI/CD
+[![Build Status](https://github.com/Brice-Brayane/News-Today/actions/workflows/ci.yml/badge.svg)](https://github.com/Brice-Brayane/News-Today/actions)
+
+Mini-News-App pour apprendre CI/CD
+
 
 ## Installation
 
